@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082901542832",
+    "project_id": "haoannie",
+    "storage_bucket": "haoannie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082901542832:android:25c9c1833f062355af0875",
+        "android_client_info": {
+          "package_name": "com.example.thuchanh_tuan9_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082901542832-cp1in4hdu256l33tgo0f06o5l31nrnu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCInNM8GmtBo995Op_IOt2s-Ifqo7Wy7CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082901542832-cp1in4hdu256l33tgo0f06o5l31nrnu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
